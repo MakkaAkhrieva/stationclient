@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  /* background-color:#F8F9FB ; */
+  background-color:rgb(244, 244, 253);
+
+}
+
+html, body {
+  scrollbar-color: 	#F5F5F5 ;
+  scrollbar-width: thin; 
+}
+
+::-webkit-scrollbar {
+  width: 24px; /* ширина для вертикального скролла */
+  height: 8px; /* высота для горизонтального скролла */
+  scrollbar-color: 	#F5F5F5 ;
+  scrollbar-width: thin; 
+}
